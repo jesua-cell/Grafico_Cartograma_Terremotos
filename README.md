@@ -1,6 +1,6 @@
 # Grafico Cartograma Terremotos 
 
-### es un proyecto en Python que visualiza datos de terremotos en un mapa mundial interactivo. Utiliza la API de **USGS** (Servicio Geológico de Estados Unidos) para obtener información sobre terremotos recientes y los representa en un mapa utilizando **Plotly**.
+### Es un proyecto en Python que visualiza datos de terremotos en un mapa mundial interactivo. Utiliza la API de **USGS** (Servicio Geológico de Estados Unidos) para obtener información sobre terremotos recientes y los representa en un mapa utilizando **Plotly**.
 
 ### Características principales
 
